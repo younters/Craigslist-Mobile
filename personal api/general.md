@@ -25,7 +25,7 @@ Abbreviations in parentheses
 | (rid) rideshare				|								| (bpa) boat parts				| 
 | (vol) volunteers				|								| (boo) boats					| 
 | ----------------------------- |								| (bka) books					| 
-| (ggg) Gigs					|								| (bfa) business				| 
+| *(ggg) Gigs	*				|								| (bfa) business				| 
 |								|								| (cta) cars and trucks			| 
 |								|								| (ema) cds/dvd/vhs				| 
 |								|								| (moa) cell phones				| 
