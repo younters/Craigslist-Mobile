@@ -15,42 +15,28 @@ Abbreviations in parentheses
 | (act) activity partners		| (cls) classes					| (ata) antiques				| 
 | (ats) artists					| (eve) events					| (ppa) appliances				| 
 | (kid) childcare				|								| (ara) arts and crafts			| 
-| (com) general					|								| (sna) atvs/utvs/snow			| 
-| (grp) groups					|								| (pta) auto parts				| 
-| (vnn) local news and views	|								| (baa) baby and kids			| 
-| (laf) lost and found			|								| (bar) barter					| 
-| (muc) musicians				|								| (haa) beauty and hlth			| 
-| (pet) pets					|								| (bip) bike parts				| 
-| (pol) politics				|								| (bia) bikes					| 
-| (rid) rideshare				|								| (bpa) boat parts				| 
-| (vol) volunteers				|								| (boo) boats					| 
-<<<<<<< HEAD
-|								|								| (bka) books					|
-| **(ggg) Gigs**				|								| (bfa) business				| 
-| (ggg) all						|								| (cta) cars and trucks			| 
-| (cpg) computer gigs			|								| (ema) cds/dvd/vhs				| 
-| (crg) creative gigs			|								| (moa) cell phones				| 
+| (com) general					| **(hhh) Housing** 			| (sna) atvs/utvs/snow			| 
+| (grp) groups					| (hou) apts wanted				| (pta) auto parts				| 
+| (vnn) local news and views	| (apa) apts/housing for rent	| (baa) baby and kids			| 
+| (laf) lost and found			| (swp) housing swap			| (bar) barter					| 
+| (muc) musicians				| (off) office & commercial		| (haa) beauty and hlth			| 
+| (pet) pets					| (prk) parking & storage		| (bip) bike parts				| 
+| (pol) politics				| (reb) real estate - by broker	| (bia) bikes					| 
+| (rid) rideshare				| (reo) real estate - by owner	| (bpa) boat parts				| 
+| (vol) volunteers				| (rew) real estate wanted		| (boo) boats					| 
+|								| (roo) rooms & shares			| (bka) books					|
+| **(ggg) Gigs**				| (sha) rooms wanted			| (bfa) business				| 
+| (ggg) all						| (sbw) sublet/temp wanted		| (cta) cars and trucks			| 
+| (cpg) computer gigs			| (sub) sublets & temporary		| (ema) cds/dvd/vhs				| 
+| (crg) creative gigs			| (vac) vacation rentals		| (moa) cell phones				| 
 | (cwg) crew gigs				|								| (cla) clothes and acc			| 
 | (dmg) domestic gigs			|								| (cba) collectibles			| 
 | (evg) event gigs				|								| (syp) computer parts			| 
 | (lbg) labor gigs				|								| (sya) computers				| 
 | (tlg) talent gigs				|								| (ela) electronics				| 
 | (wrg) writing gigs			|								| (gra) farm and garden			| 
-=======
-| ----------------------------- |								| (bka) books					| 
-| *(ggg) Gigs	*				|								| (bfa) business				| 
-|								|								| (cta) cars and trucks			| 
-|								|								| (ema) cds/dvd/vhs				| 
-|								|								| (moa) cell phones				| 
-|								|								| (cla) clothes and acc			| 
-|								|								| (cba) collectibles			| 
-|								|								| (syp) computer parts			| 
-|								|								| (sya) computers				| 
-|								|								| (ela) electronics				| 
-|								|								| (gra) farm and garden			| 
->>>>>>> origin/master
 |								|								| (zip) free stuff				| 
-|								|								| (fua) furniture				| 
+| **(rrr) Resumes**				|								| (fua) furniture				| 
 |								|								| (gms) garage sales			| 
 |								|								| (foa) general					| 
 |								|								| (hva) heavy equipment			| 
@@ -69,6 +55,18 @@ Abbreviations in parentheses
 |								|								| (vga) video gaming			| 
 |								|								| (waa) wanted					| 
 |								|								|  								|
+Not Listed: *Services* (not needed), *Personals* (adult), *Jobs* (too many, not needed?)
+The rest of the categories are listed, but only put For Sale into the code unless there is another demand.
+
+
+
+
+
+
+
+
+
+
 
 
 
