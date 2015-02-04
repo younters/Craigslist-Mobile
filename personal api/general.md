@@ -463,3 +463,153 @@ The rest of the categories are listed, but only put For Sale into the code unles
 | rfd | rockford                     |     |                         |
 | ric | richmond, VA                 |     |                         |
 | rin | richmond, IN                 |     |                         |	 
+| rmn | rochester, MN           |     |                        |
+| rno | reno / tahoe            |     |                        |
+| roa | roanoke                 |     |                        |
+| row | roswell / carlsbad      |     |                        |
+| sac | sacramento              |     |                        |
+| saf | santa fe / taos         |     |                        |
+| sat | san antonio             |     |                        |
+| sav | savannah / hinesville   |     |                        |
+| sba | santa barbara           |     |                        |
+| sbm | sheboygan, WI           |     |                        |
+| sbn | south bend / michiana   |     |                        |
+| sdk | south dakota            |     |                        |
+| sdo | san diego               | csd | city of san diego      |
+| 	  | 						| esd | east san diego county  |
+| 	  | 						| nsd | north san diego county |
+| 	  | 						| ssd | south san diego county |
+| sea | seattle-tacoma          | est | eastside               |
+| 	  | 						| kit | kitsap / west puget    |
+| 	  | 						| oly | olympia / thurston     |
+| 	  | 						| see | seattle                |
+| 	  | 						| skc | south king co          |
+| 	  | 						| sno | snohomish county       |
+| 	  | 						| tac | tacoma / pierce        |
+| sek | southeast KS            |     |                        |
+| sfo | SF bay area             | eby | east bay area          |
+| 	  | 						| nby | north bay / marin      |
+| 	  | 						| pen | peninsula              |
+| 	  | 						| sby | south bay area         |
+| 	  | 						| scz | santa cruz co          |
+| 	  | 						| sfc | city of san francisco  |
+| sgf | springfield, MO         |     |                        |
+| sgy | saguenay                |     |                        |
+| shb | sherbrooke              |     |                        |
+| shd | harrisonburg            |     |                        |
+| shv | shreveport              |     |                        |
+| sjt | san angelo              |     |                        |
+| ske | skeena-bulkley          |     |                        |
+| skt | saskatoon               |     |                        |
+| sky | sandusky                |     |                        |
+| slc | salt lake city          |     |                        |
+| sle | salem, OR               |     |                        |
+| slo | san luis obispo         |     |                        |
+| sma | south coast             |     |                        |
+| smd | southern maryland       |     |                        |
+| smo | southeast missouri      |     |                        |
+| smx | santa maria             |     |                        |
+| snj | south jersey            |     |                        |
+| sns | salina                  |     |                        |
+| soo | sault ste marie, ON     |     |                        |
+| sow | show low                |     |                        |
+| spi | springfield, IL         |     |                        |
+| spk | spokane / coeur d'alene |     |                        |
+| srn | sarnia                  |     |                        |
+| srq | sarasota-bradenton      |     |                        |
+| ssk | siskiyou county         |     |                        |
+| ssn | susanville              |     |                        |
+| stc | st cloud                |     |                        |
+| stg | st george               |     |                        |
+| stj | st joseph               |     |                        |
+| stk | stockton                |     |                        |
+| stl | st louis, MO            |     |                        |
+| sud | sudbury                 |     |                        |
+| sun | sunshine coast          |     |                        |
+| sux | sioux city, IA          |     |                        |
+| swk | southwest KS            |     |                        |
+| swm | southwest michigan      |     |                        |
+| swv | southern WV             |     |                        |
+| syr | syracuse                |     |                        |
+| tal | tallahassee             |     |                        |
+| tbr | statesboro              |     |                        |
+| tby | thunder bay             |     |                        |
+| tha | terre haute             |     |                        |
+| thb | the thumb               |     |                        |
+| toc | territories             |     |                        |
+| tol | toledo                  |     |                        |
+| tor | toronto                 | bra | brampton-caledon       |
+| 	  | 						| drh | durham region          |
+| 	  | 						| mss | mississauga            |
+| 	  | 						| oak | oakville-milton        |
+| 	  | 						| tor | city of toronto        |
+| 	  | 						| yrk | york region            |
+| tpa | tampa bay area          | hdo | hernando co            |
+| 	  | 						| hil | hillsborough co        |
+| 	  | 						| pnl | pinellas co            |
+| 	  | 						| psc | pasco co               |
+| tpk | topeka                  |     |                        |
+| tri | tri-cities, TN          |     |                        |
+| trs | trois-rivieres          |     |                        |
+| tsc | tuscaloosa              |     |                        |
+| tsu | san marcos              |     |                        |
+| tts | twin tiers NY/PA        |     |                        |
+| tul | tulsa                   |     |                        |
+| tus | tucson                  |     |                        |
+| twf | twin falls              |     |                        |
+| txk | texarkana               |     |                        |
+| txm | texoma                  |     |                        |
+| usm | hattiesburg             |     |                        |
+| ust | st augustine            |     |                        |
+| uti | utica-rome-oneida       |     |                        |
+| uva | charlottesville         |     |                        |
+| van | vancouver, BC           | bnc | burnaby/newwest        |
+| 	  | 						| nvn | north shore            |
+| 	  | 						| pml | tricities/pitt/maple   |
+| 	  | 						| rch | richmond               |
+| 	  | 						| rds | delta/surrey/langley   |
+| 	  | 						| van | city of vancouver      |
+| vaw | southwest VA            |     |                        |
+| vic | victoria, BC            |     |                        |
+| vis | visalia-tulare          |     |                        |
+| vld | valdosta                |     |                        |
+| vpi | new river valley        |     |                        |
+| vps | okaloosa / walton       |     |                        |
+| vtx | victoria, TX            |     |                        |
+| wau | wausau                  |     |                        |
+| wco | waco                    |     |                        |
+| wdc | washington, DC          | doc | district of columbia   |
+| 	  | 						| mld | maryland               |
+| 	  | 						| nva | northern virginia      |
+| wen | wenatchee               |     |                        |
+| whh | whitehorse              |     |                        |
+| whi | whistler, BC            |     |                        |
+| whl | northern panhandle      |     |                        |
+| wic | wichita                 |     |                        |
+| win | winnipeg                |     |                        |
+| wky | western KY              |     |                        |
+| wlo | waterloo / cedar falls  |     |                        |
+| wma | western massachusetts   |     |                        |
+| wmd | western maryland        |     |                        |
+| wnc | wilmington, NC          |     |                        |
+| wor | worcester / central MA  |     |                        |
+| wpt | williamsport            |     |                        |
+| wsl | winston-salem           |     |                        |
+| wsr | windsor                 |     |                        |
+| wtf | wichita falls           |     |                        |
+| wtn | watertown               |     |                        |
+| wtx | southwest TX            |     |                        |
+| wva | west virginia (old)     |     |                        |
+| wvu | morgantown              |     |                        |
+| wyo | wyoming                 |     |                        |
+| yak | yakima                  |     |                        |
+| ybs | yuba-sutter             |     |                        |
+| ycc | cornwall, ON            |     |                        |
+| ykf | yellowknife             |     |                        |
+| yng | youngstown              |     |                        |
+| ypq | peterborough            |     |                        |
+| yrk | york, PA                |     |                        |
+| yum | yuma                    |     |                        |
+| yup | upper peninsula         |     |                        |
+| yxs | prince george           |     |                        |
+| zvl | zanesville / cambridge  |     |                        |
