@@ -24,17 +24,17 @@ Abbreviations in parentheses
 | (pol) politics				|								| (bia) bikes					| 
 | (rid) rideshare				|								| (bpa) boat parts				| 
 | (vol) volunteers				|								| (boo) boats					| 
-| ----------------------------- |								| (bka) books					| 
-| (ggg) Gigs					|								| (bfa) business				| 
-|								|								| (cta) cars and trucks			| 
-|								|								| (ema) cds/dvd/vhs				| 
-|								|								| (moa) cell phones				| 
-|								|								| (cla) clothes and acc			| 
-|								|								| (cba) collectibles			| 
-|								|								| (syp) computer parts			| 
-|								|								| (sya) computers				| 
-|								|								| (ela) electronics				| 
-|								|								| (gra) farm and garden			| 
+|								|								| (bka) books					|
+| **(ggg) Gigs**				|								| (bfa) business				| 
+| (ggg) all						|								| (cta) cars and trucks			| 
+| (cpg) computer gigs			|								| (ema) cds/dvd/vhs				| 
+| (crg) creative gigs			|								| (moa) cell phones				| 
+| (cwg) crew gigs				|								| (cla) clothes and acc			| 
+| (dmg) domestic gigs			|								| (cba) collectibles			| 
+| (evg) event gigs				|								| (syp) computer parts			| 
+| (lbg) labor gigs				|								| (sya) computers				| 
+| (tlg) talent gigs				|								| (ela) electronics				| 
+| (wrg) writing gigs			|								| (gra) farm and garden			| 
 |								|								| (zip) free stuff				| 
 |								|								| (fua) furniture				| 
 |								|								| (gms) garage sales			| 
@@ -54,6 +54,16 @@ Abbreviations in parentheses
 |								|								| (taa) toys and games			| 
 |								|								| (vga) video gaming			| 
 |								|								| (waa) wanted					| 
+|								|								|  								|
+
+
+
+
+
+
+
+
+
 
 
 
