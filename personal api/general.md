@@ -3,7 +3,7 @@
 ## Calling
 
 Calls for information are sent through http and the response is in an RSS document.
-The general call would be http://city.craigslist.org/search/(county/)category then something at the end
+The general call would be http://city.craigslist.org/search(/county)/category(/subcat) then something at the end
 
 ## Category List
 
