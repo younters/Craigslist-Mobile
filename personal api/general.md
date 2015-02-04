@@ -11,7 +11,7 @@ To search for and post items, categories must be used.
 Abbreviations in parentheses
 
 (ccc) Community				| (eee) Events				| (sss) For Sale			|
---------------------------- |---------------------------|---------------------------|
+:-------------------------- |:-------------------------:|--------------------------:|
 (act) activity partners		| (cls) classes				| (ata) antiques			| 
 (ats) artists				| (eve) events				| (ppa) appliances			| 
 (kid) childcare				|							| (ara) arts and crafts		| 
