@@ -24,6 +24,7 @@ Abbreviations in parentheses
 | (pol) politics				|								| (bia) bikes					| 
 | (rid) rideshare				|								| (bpa) boat parts				| 
 | (vol) volunteers				|								| (boo) boats					| 
+<<<<<<< HEAD
 |								|								| (bka) books					|
 | **(ggg) Gigs**				|								| (bfa) business				| 
 | (ggg) all						|								| (cta) cars and trucks			| 
@@ -35,6 +36,19 @@ Abbreviations in parentheses
 | (lbg) labor gigs				|								| (sya) computers				| 
 | (tlg) talent gigs				|								| (ela) electronics				| 
 | (wrg) writing gigs			|								| (gra) farm and garden			| 
+=======
+| ----------------------------- |								| (bka) books					| 
+| *(ggg) Gigs	*				|								| (bfa) business				| 
+|								|								| (cta) cars and trucks			| 
+|								|								| (ema) cds/dvd/vhs				| 
+|								|								| (moa) cell phones				| 
+|								|								| (cla) clothes and acc			| 
+|								|								| (cba) collectibles			| 
+|								|								| (syp) computer parts			| 
+|								|								| (sya) computers				| 
+|								|								| (ela) electronics				| 
+|								|								| (gra) farm and garden			| 
+>>>>>>> origin/master
 |								|								| (zip) free stuff				| 
 |								|								| (fua) furniture				| 
 |								|								| (gms) garage sales			| 
