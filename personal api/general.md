@@ -24,8 +24,8 @@ Abbreviations in parentheses
 | (pol) politics				|								| (bia) bikes					| 
 | (rid) rideshare				|								| (bpa) boat parts				| 
 | (vol) volunteers				|								| (boo) boats					| 
-|								|								| (bka) books					| 
-|								|								| (bfa) business				| 
+| ----------------------------- |								| (bka) books					| 
+| (ggg) Gigs					|								| (bfa) business				| 
 |								|								| (cta) cars and trucks			| 
 |								|								| (ema) cds/dvd/vhs				| 
 |								|								| (moa) cell phones				| 
