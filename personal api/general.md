@@ -15,6 +15,7 @@ Abbreviations in parentheses
 | (act) activity partners		| (cls) classes					| (ata) antiques				| 
 | (ats) artists					| (eve) events					| (ppa) appliances				| 
 | (kid) childcare				|								| (ara) arts and crafts			| 
+<<<<<<< HEAD
 | (com) general					| **(hhh) Housing** 			| (sna) atvs/utvs/snow			| 
 | (grp) groups					| (hou) apts wanted				| (pta) auto parts				| 
 | (vnn) local news and views	| (apa) apts/housing for rent	| (baa) baby and kids			| 
@@ -29,6 +30,22 @@ Abbreviations in parentheses
 | (ggg) all						| (sbw) sublet/temp wanted		| (cta) cars and trucks			| 
 | (cpg) computer gigs			| (sub) sublets & temporary		| (ema) cds/dvd/vhs				| 
 | (crg) creative gigs			| (vac) vacation rentals		| (moa) cell phones				| 
+=======
+| (com) general					|								| (sna) atvs/utvs/snow			| 
+| (grp) groups					|								| (pta) auto parts				| 
+| (vnn) local news and views	|								| (baa) baby and kids			| 
+| (laf) lost and found			|								| (bar) barter					| 
+| (muc) musicians				|								| (haa) beauty and hlth			| 
+| (pet) pets					|								| (bip) bike parts				| 
+| (pol) politics				|								| (bia) bikes					| 
+| (rid) rideshare				|								| (bpa) boat parts				| 
+| (vol) volunteers				|								| (boo) boats					| 
+|								|								| (bka) books					|
+| **(ggg) Gigs**				|								| (bfa) business				| 
+| (ggg) all						|								| (cta) cars and trucks			| 
+| (cpg) computer gigs			|								| (ema) cds/dvd/vhs				| 
+| (crg) creative gigs			|								| (moa) cell phones				| 
+>>>>>>> origin/master
 | (cwg) crew gigs				|								| (cla) clothes and acc			| 
 | (dmg) domestic gigs			|								| (cba) collectibles			| 
 | (evg) event gigs				|								| (syp) computer parts			| 
@@ -57,34 +74,6 @@ Abbreviations in parentheses
 |								|								|  								|
 Not Listed: *Services* (not needed), *Personals* (adult), *Jobs* (too many, not needed?)
 The rest of the categories are listed, but only put For Sale into the code unless there is another demand.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
