@@ -62,7 +62,7 @@ The rest of the categories are listed, but only put For Sale into the code unles
 
 |	Area Abbreviation	|	Description	|	Subarea Abbreviation	|	Description	|
 |-----|----------------------------|-----|----------------------------|
-| aaa | ann arbor                  |     |                            |
+| aaa | ann arbor                  |     |                            | 
 | abb | fraser valley              |     |                            |
 | abi | abilene                    |     |                            |
 | abq | albuquerque                |     |                            |
